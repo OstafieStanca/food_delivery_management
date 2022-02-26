@@ -1,0 +1,8 @@
+The order with id : 29 was placed at date : 06-03-2021 successfully! 
+Products of the order : 
+Pistachio Cranberry Icebox Cookies , price = 37
+Braised Chicken with Apples and Sage , price = 16
+Inside-Out Carrot Cake Cookies , price = 64
+Mint Chip Ice Cream , price = 55
+Chicken Fricassée with Black-Eyed Peas and Spinach , price = 42
+Total price : 214

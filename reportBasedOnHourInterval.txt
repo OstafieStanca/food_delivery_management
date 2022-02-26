@@ -1,0 +1,13 @@
+The orders placed between 10 and 20 , regardless the date, are : 
+Id order 18, by client 0
+Id order 19, by client 0
+Id order 20, by client 0
+Id order 21, by client 1
+Id order 22, by client 2
+Id order 23, by client 2
+Id order 24, by client 3
+Id order 25, by client 3
+Id order 26, by client 3
+Id order 27, by client 2
+Id order 28, by client 2
+Id order 29, by client 2

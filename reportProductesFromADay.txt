@@ -1,0 +1,22 @@
+The list of products ordered within the day : 4 with the number of times they have been ordered
+The product with  ID: 411 appears 1 time/s
+The product with  ID: 491 appears 1 time/s
+The product with  ID: 712 appears 1 time/s
+The product with  ID: 872 appears 1 time/s
+The product with  ID: 1466 appears 1 time/s
+The product with  ID: 2281 appears 1 time/s
+The product with  ID: 2621 appears 1 time/s
+The product with  ID: 2743 appears 1 time/s
+The product with  ID: 3332 appears 2 time/s
+The product with  ID: 4556 appears 1 time/s
+The product with  ID: 4894 appears 1 time/s
+The product with  ID: 5899 appears 1 time/s
+The product with  ID: 6241 appears 1 time/s
+The product with  ID: 6618 appears 1 time/s
+The product with  ID: 9198 appears 1 time/s
+The product with  ID: 10406 appears 1 time/s
+The product with  ID: 10556 appears 1 time/s
+The product with  ID: 10985 appears 1 time/s
+The product with  ID: 11256 appears 1 time/s
+The product with  ID: 13127 appears 1 time/s
+The product with  ID: 13972 appears 1 time/s

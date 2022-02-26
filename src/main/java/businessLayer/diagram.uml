@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="44.0" y="235.0">businessLayer.DeliveryService</node>
+    <node x="298.0" y="460.0">businessLayer.Order</node>
+    <node x="380.0909090909091" y="52.27272727272728">businessLayer.Observable</node>
+    <node x="0.0" y="460.0">presentationLayer.UserRole</node>
+    <node x="431.0" y="460.0">presentationLayer.User</node>
+    <node x="157.0" y="460.0">presentationLayer.Client</node>
+    <node x="386.0" y="385.0">presentationLayer.LogInGUI</node>
+    <node x="0.0" y="310.0">presentationLayer.CreateNewProduct</node>
+    <node x="0.0" y="535.0">businessLayer.Main</node>
+    <node x="0.0" y="80.0">businessLayer.BaseProduct</node>
+    <node x="100.0" y="0.0">businessLayer.MenuItem</node>
+    <node x="197.0" y="385.0">dataLayer.Serializator</node>
+    <node x="0.0" y="155.0">businessLayer.IDeliveryServiceProcessing</node>
+    <node x="309.0" y="235.0">presentationLayer.Employee</node>
+    <node x="156.0" y="80.0">businessLayer.CompositeProduct</node>
+    <node x="0.0" y="385.0">presentationLayer.Administrator</node>
+    <node x="221.0" y="310.0">presentationLayer.RegistrationGUI</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="businessLayer.DeliveryService" target="businessLayer.IDeliveryServiceProcessing">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="businessLayer.BaseProduct" target="businessLayer.MenuItem">
+      <point x="0.0" y="-15.0" />
+      <point x="-28.0" y="15.0" />
+    </edge>
+    <edge source="presentationLayer.Employee" target="businessLayer.Observable">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="businessLayer.CompositeProduct" target="businessLayer.MenuItem">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="659.0" y="279.27272727272725" />
+  <SelectedNodes>
+    <node>businessLayer.Observable</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

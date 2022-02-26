@@ -1,0 +1,3 @@
+Clients that order more than a specified number of times and the amount of the order is grater than a specified amount are :
+Client with id 2
+Client with id 3
